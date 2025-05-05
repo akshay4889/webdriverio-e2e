@@ -1,0 +1,12 @@
+{
+    "homePageUrl": "https://www.hollandamerica.com/en",
+    "bookCruisesButtonText": "Book Cruises",
+    "buttonSelectors": {
+      "bookCruisesLink": "//a[text()='Book Cruises']",
+      "designationsButton": "a[data-id='destinations']",
+      "alaskaButton": "a[data-id='alaska']",
+      "cruisePageButton": "//a[text()='Search All Cruises']",
+      "alaskaItineraryButton": "div.button.cmp-button--primary a[aria-label='View Itinerary 7-DAY ALASKA INSIDE PASSAGE'] span.cmp-button__text",
+      "nextStepButton": "div.cmp-inside-content span.cmp-button__text"
+    }
+  }
