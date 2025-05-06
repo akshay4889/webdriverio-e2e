@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div.button.cmp-button--primary a[aria-label='View Itinerary 7-DAY ALASKA INSIDE PASSAGE'] span.cmp-button__text"
+}

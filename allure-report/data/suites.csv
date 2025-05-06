@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3738","Failed test for ""Alaska"" button not present on homepage","","Mon May 05 17:16:23 IST 2025","failed","Mon May 05 17:16:26 IST 2025","","Home page Buttons Test","",""
+"","1458","Verify if ""Destinations"" button is present on homepage","","Mon May 05 17:16:21 IST 2025","passed","Mon May 05 17:16:23 IST 2025","","Home page Buttons Test","",""
+"","2102","navigates to Cruise page","","Mon May 05 17:16:21 IST 2025","passed","Mon May 05 17:16:23 IST 2025","","Holland America","",""
+"","7038","Verify if ""Book Cruises"" button is present on homepage","","Mon May 05 17:16:14 IST 2025","passed","Mon May 05 17:16:21 IST 2025","","Home page Buttons Test","",""
+"","10937","continues upto checkout page","","Mon May 05 17:16:23 IST 2025","passed","Mon May 05 17:16:34 IST 2025","","Holland America","",""
+"","6402","opens the Holland America homepage","","Mon May 05 17:16:14 IST 2025","passed","Mon May 05 17:16:21 IST 2025","","Holland America","",""
